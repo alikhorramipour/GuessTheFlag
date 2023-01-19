@@ -5,5 +5,5 @@
  1. Open up Xcode
  2. Click on File > Open
  3. Select GuessTheFlag.xcodeproj
- 4. Press Command+R to Build
+ 4. Press Command+R to Build and Run
  
